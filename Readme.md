@@ -82,22 +82,6 @@ Eureka Server	https://github.com/PranavX500/Eureka-Server-UrbanMart-.git
 
 ---
 
-# 📁 Project Repositories (Microservices)
-
-| Service | Repository Link |
-|--------|------------------|
-| User Service | (Coming soon) |
-| Product Service | (Coming soon) |
-| Order Service | (Coming soon) |
-| Payment Service | (Coming soon) |
-| OTP Service | (Coming soon) |
-| API Gateway | (Coming soon) |
-| Eureka Server | (Coming soon) |
-
-Disclaimer
-**This main repo is only for documentation.**  
-> Each service has its **own dedicated GitHub repository**.
-
 
 # 🧪 Testing Endpoints
 
