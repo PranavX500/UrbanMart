@@ -4,6 +4,31 @@
 This project is a fully modular **Ecommerce Backend** built using a complete **Microservices Architecture**.  
 Each service is independently deployable, scalable, and communicates through **REST APIs**, **Kafka**, and **API Gateway**.
 
+📁 Project Repositories (Microservices)
+
+Service	Repository Link
+
+User Service	https://github.com/PranavX500/User-Service-UrbanMart-.git
+
+Product Service	https://github.com/PranavX500/Product-Service-UrbanMart-.git
+
+Order Service	https://github.com/PranavX500/Order-service-UrbanMart-.git
+
+Payment Service	https://github.com/PranavX500/Payment-Service-Urban-Mart-.git
+
+Cart Service	https://github.com/PranavX500/Cart-Service-Urban-Mart-.git
+
+OTP Service	https://github.com/PranavX500/Otp-Service-UrbanMart-.git
+
+Notification Service	https://github.com/PranavX500/Notification-Serivice-Urban-Mart-.git
+
+API Gateway	https://github.com/PranavX500/Api-Gatway-UrbanMart-.git
+
+Eureka Server	https://github.com/PranavX500/Eureka-Server-UrbanMart-.git
+
+---
+
+
 # 🧱 Microservices Included
 | Service | Description |
 |--------|-------------|
